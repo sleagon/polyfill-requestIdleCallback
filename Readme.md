@@ -1,3 +1,3 @@
 # requestIdleCallback
 
-According to the React blog released in 23/10/2018, the introduced a new feature called "time slicing". This feature is built on requestIdleCallback first introduced in chrome in version 47 and implemented in other browsers after that. This repo just rewrite the polyfill, which is originally released [here][https://gist.github.com/paullewis/55efe5d6f05434a96c36], in order to use it in polyfill service.
+According to the React blog released in 23/10/2018, the introduced a new feature called "time slicing". This feature is built on requestIdleCallback first introduced in chrome in version 47 and implemented in other browsers after that. This repo just rewrite the polyfill, which is originally released [here](https://gist.github.com/paullewis/55efe5d6f05434a96c36), in order to use it in polyfill service.
